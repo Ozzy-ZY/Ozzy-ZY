@@ -1,27 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ozzy</h1>
-<h3 align="center">A tech enthusiast and a CS student</h3>
+# 💫 About Me:
+🔭 I’m currently working on AAAlot of things<br>👯 I’m looking to collaborate on Minesweeper game implementation in Java<br>🤝 I’m looking for help with Devops mentoring<br>🌱 I’m currently learning Java, Go, RDBMS<br>💬 Ask me about C++, low level stuff<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzy-zy&label=Profile%20views&color=0e75b6&style=flat" alt="ozzy-zy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zyadakaozzy" target="blank"><img src="https://img.shields.io/twitter/follow/zyadakaozzy?logo=twitter&style=for-the-badge" alt="zyadakaozzy" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zyad060) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zyad-al-saeed-55043a24a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZyadAKAozzy) 
 
-- 🔭 I’m currently working on **Mails automation using .Net**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ozzy-ZY&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ozzy-ZY&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozzy-ZY&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Asp.Net Core, C#, C++**
-
-- 👯 I’m looking to collaborate on **Whatever**
-
-- 📫 How to reach me **Zyadhimself1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zyadakaozzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyadakaozzy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zyad al-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zyad al-saeed" height="30" width="40" /></a>
-<a href="https://instagram.com/zyad060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyad060" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ozzyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ozzyc" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozzy-zy&show_icons=true&locale=en&layout=compact" alt="ozzy-zy" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
