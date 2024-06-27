@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AAAlot of things<br>👯 I’m looking to collaborate on Minesweeper game implementation in Java<br>🤝 I’m looking for help with Devops mentoring<br>🌱 I’m currently learning Java, Go, RDBMS<br>💬 Ask me about C++, low level stuff<br>
+🔭 I’m currently working on AAAlot of things<br>🌱 I’m currently learning ASP.net Core, Go, SQl Server T-SQL<br>💬 Ask me about General stuff<br>
 
 
 ## 🌐 Socials:
