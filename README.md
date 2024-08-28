@@ -10,5 +10,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ozzy-ZY&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ozzy-ZY&theme=prussian&hide_border=true)<br/>
+<p align="left"> <a href="https://twitter.com/zyadakaozzy" target="blank"><img src="https://img.shields.io/twitter/follow/zyadakaozzy?logo=twitter&style=for-the-badge" alt="zyadakaozzy" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zyadakaozzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyadakaozzy" height="30" width="40" /></a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
