@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AAAlot of things<br>🌱 I’m currently learning ASP.net Core, Go, SQl Server T-SQL<br>💬 Ask me about General stuff<br>
+🔭 I’m currently working on AAAlot of things<br>🌱 I’m currently learning ASP.net Core, Back-end Development, System Design<br>💬 Ask me about General stuff<br>
 
 
 ## 🌐 Socials:
